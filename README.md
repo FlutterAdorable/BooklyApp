@@ -1,16 +1,16 @@
 # booklyapp
 
-A new Flutter project.
+Free & paid books all in one place from Google Books API
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project aims to use google book apis that get all ebooks in one place.
+##Features
+* MVVM architecure using bloc
+* Shimmer Loading effect while fetching Data
+* Infinite Scroll (Search & Home Page)
+* Pull to refresh (HomePage)
+* BookDetails with current currecny of your country
+* High perfromance and easy to use
+* Animation
+* 
